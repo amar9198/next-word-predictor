@@ -37,12 +37,11 @@ Next Word Prediction is a Natural Language Processing (NLP) application that pre
 For example:
 
 **Input:**
-```text
-I am going
+
+    I am going
 
 **Predicted Next Word:**
 
-```text
-to
+    to
 
-
+The LSTM model analyzes the input sequence and predicts the word that is most likely to come next.
