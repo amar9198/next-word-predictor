@@ -20,3 +20,22 @@ For example:
 **Input:**
 ```text
 I am going
+
+
+## Features
+
+- LSTM-based next-word prediction
+- Natural Language Processing
+- Interactive Streamlit interface
+- Pre-trained deep learning model
+- Real-time prediction
+- Streamlit Cloud deployment
+
+## Technologies Used
+
+- Python
+- TensorFlow
+- Keras
+- NumPy
+- Streamlit
+- Git & GitHub
