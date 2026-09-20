@@ -40,5 +40,9 @@ For example:
 ```text
 I am going
 
+**Predicted Next Word:**
+
+```text
+to
 
 
