@@ -11,17 +11,6 @@ https://next-word-predictor-ijswuyhf7mg3bt8zgnyfxi.streamlit.app/
 
 ---
 
-## 📌 Project Overview
-
-Next Word Prediction is a Natural Language Processing (NLP) application that predicts the most likely next word based on the text entered by the user.
-
-For example:
-
-**Input:**
-```text
-I am going
-
-
 ## Features
 
 - LSTM-based next-word prediction
@@ -39,3 +28,17 @@ I am going
 - NumPy
 - Streamlit
 - Git & GitHub
+
+
+## 📌 Project Overview
+
+Next Word Prediction is a Natural Language Processing (NLP) application that predicts the most likely next word based on the text entered by the user.
+
+For example:
+
+**Input:**
+```text
+I am going
+
+
+
